@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-import Menu from "../../pageobjects/components/Menu";
+import Menu from "../../pageobjects/tesla/components/Menu";
 
 describe("Cypress POM Test Suite", function () {
     const menu = new Menu();

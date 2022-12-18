@@ -1,4 +1,4 @@
-import example from '../../fixtures/example.json';
+import example from '../../../fixtures/example.json';
 import "cypress-real-events/support";
 
 class Products {

@@ -1,4 +1,5 @@
 /// <reference types="cypress" />
+// https://jsonplaceholder.typicode.com/guide/
 
 describe("Cypress API endpoint verifications", function () {
 

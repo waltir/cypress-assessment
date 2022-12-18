@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-import Product from "../../pageobjects/components/Products";
+import Product from "../../pageobjects/tesla/components/Products";
 
 describe("Model S Product Page", function () {
     const product = new Product();

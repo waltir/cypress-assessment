@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-import Footer from "../../pageobjects/components/Footer";
+import Footer from "../../pageobjects/tesla/components/Footer";
 
 describe("Cypress POM Footer Test Suite", function () {
     const footer = new Footer();
